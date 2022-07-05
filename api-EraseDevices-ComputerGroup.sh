@@ -5,7 +5,7 @@
 # 2. For each computer in the Smart Group, push an 'Erase Device' MDM Command
 #
 # Original for mobile devices Created 5.13.2022 @robjschroeder
-# Updated for Computers on 6.20.2022 @dannyl22
+# Updated for Computers on 6.30.2022 @dannyl22
 #
 # Add the Smart Computer Group Group ID variable
 # Add the MDM Action, if different than EraseDevice
